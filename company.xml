@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<!-- List of Employee Details -->
+	<employee id="1">
+		<name>Pradeep P</name>
+		<role> Senior Consultant</role>
+		<division>IBM Software Labs</division>
+		<payrollType>Permanent</payrollType>
+	</employee>
+	<employee id="2">
+		<name>Rakesh Kumar</name>
+		<role>Consultant</role>
+		<division>IBM Software Labs</division>
+		<payrollType>Contractor</payrollType>
+	</employee>
+	<employee id="3">
+		<name>Kiran</name>
+		<role>Tester</role>
+		<division>IBM Software Labs</division>
+		<payrollType>Contractor</payrollType>
+	</employee>
+	<employee id="4">
+		<name>Anil P</name>
+		<role>Manager</role>
+		<division>IBM Software Labs</division>
+		<payrollType>Permanent</payrollType>
+	</employee>
+
+</company>
